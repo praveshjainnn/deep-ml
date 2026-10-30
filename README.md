@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**2** solved · 1 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-27 | [solution](problems/0116-derivative-of-a-polynomial) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-30 | [solution](math/0007-vector-operations) |
 
 ---
 
